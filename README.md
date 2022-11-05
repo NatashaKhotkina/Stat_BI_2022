@@ -1,1 +1,1 @@
-This is my homework. Enjoy!
+This is my statistics repo.
